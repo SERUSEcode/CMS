@@ -1,0 +1,6 @@
+@StoreCMS.Auth_HostAddress = http://localhost:5215
+
+GET {{StoreCMS.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

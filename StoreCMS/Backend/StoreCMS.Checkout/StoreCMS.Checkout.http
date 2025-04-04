@@ -1,0 +1,6 @@
+@StoreCMS.Checkout_HostAddress = http://localhost:5120
+
+GET {{StoreCMS.Checkout_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

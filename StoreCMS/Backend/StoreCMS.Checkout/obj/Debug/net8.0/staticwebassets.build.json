@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NyvEye54fXpW3cqWT+RIgNTXIDBLnK9h0rXwkPlw64c=",
+  "Source": "StoreCMS.Checkout",
+  "BasePath": "_content/StoreCMS.Checkout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zBiy29shTaXdNcNHZ3eTrTve4GuJoXQJUg0gHsf6JCg=",
+  "Source": "StoreCMS.Inventory",
+  "BasePath": "_content/StoreCMS.Inventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

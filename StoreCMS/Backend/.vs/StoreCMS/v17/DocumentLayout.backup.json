@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.common\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|solutionrelative:storecms.common\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.common\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|solutionrelative:storecms.common\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\storecms.auth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\storecms.auth.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.auth\\storecms.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CBBCC63-B796-491C-BE26-94ED75F3A74C}|StoreCMS.Auth\\StoreCMS.Auth.csproj|solutionrelative:storecms.auth\\storecms.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|c:\\dev\\github\\cms\\storecms\\backend\\storecms.common\\storecms.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CBD3E84-5D2E-4716-9826-3DD50A8EF943}|StoreCMS.Common\\StoreCMS.Common.csproj|solutionrelative:storecms.common\\storecms.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StoreCMS.Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv10AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:37:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreCMS.Auth.csproj",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\StoreCMS.Auth.csproj",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\StoreCMS.Auth.csproj",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\StoreCMS.Auth.csproj",
+              "RelativeToolTip": "StoreCMS.Auth\\StoreCMS.Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T22:01:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StoreCMS.Common\\Models\\User.cs",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\Models\\User.cs",
+              "RelativeToolTip": "StoreCMS.Common\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:56:23.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "StoreCMS.Common\\Models\\LogEntry.cs",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\Models\\LogEntry.cs",
+              "RelativeToolTip": "StoreCMS.Common\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:56:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreCMS.Common.csproj",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\StoreCMS.Common.csproj",
+              "RelativeDocumentMoniker": "StoreCMS.Common\\StoreCMS.Common.csproj",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Common\\StoreCMS.Common.csproj",
+              "RelativeToolTip": "StoreCMS.Common\\StoreCMS.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T21:54:55.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\appsettings.json",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\appsettings.json",
+              "RelativeToolTip": "StoreCMS.Auth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T21:49:51.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "StoreCMS.Auth\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:46:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreCMS.Auth.http",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\StoreCMS.Auth.http",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\StoreCMS.Auth.http",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\StoreCMS.Auth.http",
+              "RelativeToolTip": "StoreCMS.Auth\\StoreCMS.Auth.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-04T21:43:45.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "StoreCMS.Auth\\Program.cs",
+              "ToolTip": "C:\\Dev\\Github\\CMS\\StoreCMS\\Backend\\StoreCMS.Auth\\Program.cs",
+              "RelativeToolTip": "StoreCMS.Auth\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:43:34.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

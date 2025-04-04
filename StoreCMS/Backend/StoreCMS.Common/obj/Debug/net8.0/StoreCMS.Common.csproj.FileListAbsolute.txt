@@ -1,0 +1,12 @@
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\bin\Debug\net8.0\StoreCMS.Common.deps.json
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\bin\Debug\net8.0\StoreCMS.Common.dll
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\bin\Debug\net8.0\StoreCMS.Common.pdb
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.AssemblyInfoInputs.cache
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.AssemblyInfo.cs
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.csproj.CoreCompileInputs.cache
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.sourcelink.json
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.dll
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\refint\StoreCMS.Common.dll
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\StoreCMS.Common.pdb
+C:\Dev\Github\CMS\StoreCMS\Backend\StoreCMS.Common\obj\Debug\net8.0\ref\StoreCMS.Common.dll

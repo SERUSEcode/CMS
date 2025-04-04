@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3KSAxNijaiSthtR9XcUO9/CY3m7RcOnpvJEDiLulz+Y=",
+  "Source": "StoreCMS.Auth",
+  "BasePath": "_content/StoreCMS.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

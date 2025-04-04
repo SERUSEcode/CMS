@@ -1,0 +1,6 @@
+@StoreCMS.Inventory_HostAddress = http://localhost:5125
+
+GET {{StoreCMS.Inventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

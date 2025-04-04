@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StoreCMS.Auth.props" />
+</Project>
